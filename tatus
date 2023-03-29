@@ -1,0 +1,86 @@
+[33mcommit d2eb3f7a573a8b3b4ff46e3ed248dcafbccff38f[m[33m ([m[1;36mHEAD -> [m[1;32mjuan[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 93523cf d014103
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Tue Mar 28 18:06:57 2023 -0500
+
+    Merge pull request #7 from pipelin10/revert-5-feature/change_readme
+    
+    Revert "change md for a better name ( accept please :D)"
+
+[33mcommit d0141039aebd60b256be844e156f8906a8c72a61[m
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Tue Mar 28 18:06:47 2023 -0500
+
+    Revert "change md for a better name ( accept please :D)"
+
+[33mcommit 93523cfa2fadf1913f907452849480aa6da9cb0b[m
+Merge: 3c12964 c6f0750
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Tue Mar 28 13:09:55 2023 -0500
+
+    Merge pull request #5 from Santiagocast04/feature/change_readme
+    
+    change md for a better name ( accept please :D)
+
+[33mcommit c6f0750b08a43a229057fe8384ff2daed48c320c[m
+Author: santiagocastaneda <scastaneda@pibox.app>
+Date:   Tue Mar 28 10:03:27 2023 -0500
+
+    change md for a better name
+
+[33mcommit 3c1296453d029373cdb954529b03d946dd52a1cc[m
+Merge: e5f8d21 965946a
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Mon Mar 27 11:09:53 2023 -0500
+
+    Merge pull request #3 from pipelin10/revert-2-main
+    
+    Revert "Readme with my name"
+
+[33mcommit 965946ae1f211f241461af8f01e231a8c2a63c5c[m
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Mon Mar 27 11:09:42 2023 -0500
+
+    Revert "Readme with my name"
+
+[33mcommit e5f8d2106df056730580abd5388498b77bd4dfe2[m
+Merge: 509ce1a 625d75f
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Mon Mar 27 11:09:17 2023 -0500
+
+    Merge pull request #2 from jcs13-bit/main
+    
+    Readme with my name
+
+[33mcommit 625d75f7f785d45bc29071452cc24d65795f9325[m
+Author: Jose <you@example.com>
+Date:   Fri Mar 24 17:09:59 2023 -0500
+
+    Readme with my name
+
+[33mcommit 509ce1a4ce88d051253b44f77462cafe006a7f2b[m
+Merge: b3d025c c3ca21b
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Wed Mar 22 19:52:32 2023 -0500
+
+    Merge pull request #1 from Kcambindo21/kevin-branch
+    
+    kevin
+
+[33mcommit c3ca21b6fdc40b9823b223461d6b8f4de432b2cd[m
+Author: Kevin Cambindo <kcambindocosme@gmail.com>
+Date:   Wed Mar 22 19:51:07 2023 -0500
+
+    kevin
+
+[33mcommit b3d025ce1f18420f29446a88bfd7da64327598f9[m
+Author: Carlos Felipe Montoya <carlosfemontoya@gmail.com>
+Date:   Wed Mar 22 19:17:30 2023 -0500
+
+    asdasdasd
+
+[33mcommit b6ec880f5fe455be43d83c3da977a5ccd7d931ed[m
+Author: Felipe Montoya Rincon <carlosfemontoya@gmail.com>
+Date:   Wed Mar 22 19:13:01 2023 -0500
+
+    first commit
